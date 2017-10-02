@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_TDC" value="name:id_tdc;datatype:int,name:TITULAR;datatype:string,name:TDC;datatype:int,name:EXPIRACION;datatype:int,name:CCV;datatype:int" />
+</info>

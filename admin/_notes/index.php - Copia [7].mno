@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_vista" value="name:Modelo;datatype:string,name:Imagen;datatype:string,name:Precio unitario;datatype:int,name:Descripci�n;datatype:string,name:Proveedor;datatype:string,name:Talla;datatype:int,name:Color;datatype:string,name:Categor�a;datatype:string,name:Marca;datatype:string" />
+</info>

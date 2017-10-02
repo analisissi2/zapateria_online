@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Colores" value="name:id_color;datatype:int,name:descripcion;datatype:string" />
+	<infoitem key="UD_ConsultaTalla" value="name:id_talla;datatype:int,name:talla;datatype:string" />
+	<infoitem key="UD_ConsultaTallas" value="name:id_talla;datatype:int,name:medida;datatype:real" />
+</info>

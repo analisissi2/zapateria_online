@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_selectmunicipio" value="name:id_municipio;datatype:int,name:municipio;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:telefono;datatype:string,name:correo;datatype:string,name:codigo_postal;datatype:string,name:direccion;datatype:string,name:usuario_correo;datatype:string,name:usuario_rol_id_rol;datatype:int,name:municipio_id_municipio;datatype:int,name:municipio_departamento_id_departamento;datatype:int" />
+	<infoitem key="UD_departamento" value="name:id_departamento;datatype:int,name:departamento;datatype:string" />
+	<infoitem key="UD_Usuario" value="name:correo;datatype:string,name:contrasena;datatype:string,name:nombre;datatype:string,name:apellido;datatype:string,name:estado;datatype:int,name:rol_id_rol;datatype:int" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_vistaExistencias" value="name:Cantidad;datatype:int,name:Marca;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:Cantidad;datatype:int,name:Id;datatype:int,name:Producto;datatype:string" />
+	<infoitem key="UD_selectExistencias" value="name:Cantidad;datatype:int,name:Id;datatype:int,name:Producto;datatype:string" />
+</info>

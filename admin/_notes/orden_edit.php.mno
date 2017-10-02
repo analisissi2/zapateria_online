@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_usuario" value="name:correo;datatype:string" />
+	<infoitem key="UD_costo" value="name:id_costo;datatype:int,name:costo;datatype:int" />
+	<infoitem key="UD_ordenes" value="name:id_orden;datatype:int,name:fecha;datatype:date,name:total;datatype:string,name:usuario_correo;datatype:string,name:usuario_rol_id_rol;datatype:int,name:costo_envio_id_costo;datatype:int" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_editpaypal" value="name:id;datatype:int,name:correo;datatype:string,name:monto;datatype:int,name:forma_pago_id_tipo_pago;datatype:int" />
+</info>

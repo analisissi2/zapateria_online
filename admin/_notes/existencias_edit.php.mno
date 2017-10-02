@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_select" value="name:id;datatype:int,name:cantidad;datatype:int,name:producto_id_producto;datatype:int" />
+	<infoitem key="UD_productos" value="name:nombre;datatype:string,name:producto_id_producto;datatype:int" />
+</info>

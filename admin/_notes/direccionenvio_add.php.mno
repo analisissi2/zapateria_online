@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_selectmunicipio" value="name:id_municipio;datatype:int,name:municipio;datatype:string" />
+	<infoitem key="UD_departamento" value="name:id_departamento;datatype:int,name:departamento;datatype:string" />
+	<infoitem key="UD_usuario" value="name:correo;datatype:string" />
+</info>

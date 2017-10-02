@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_selectdireccionenvio" value="name:id;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:tel;datatype:string,name:correo;datatype:string,name:Zip;datatype:string,name:detalles de direccion;datatype:string,name:usuario;datatype:string,name:Rol;datatype:int,name:Departamento;datatype:string,name:municipio;datatype:string" />
+</info>

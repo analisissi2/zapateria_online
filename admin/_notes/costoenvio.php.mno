@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_costoEnvio" value="name:Id;datatype:int,name:Costo;datatype:int,name:Departamento;datatype:int" />
+	<infoitem key="UD_costo" value="name:ID;datatype:int,name:Costo;datatype:int,name:Departamento;datatype:string" />
+</info>

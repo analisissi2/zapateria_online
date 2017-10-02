@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_TDC" value="name:numero_tdc;datatype:int,name:fecha_expiracion;datatype:int,name:CCV2;datatype:int,name:nombre_titular;datatype:string,name:tipo_pago;datatype:string" />
+</info>

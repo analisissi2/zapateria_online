@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_editcorreo" value="name:correo;datatype:string" />
+	<infoitem key="UD_cualquier" value="name:id_tipo_pago;datatype:int,name:tipo_pago;datatype:string,name:usuario_correo;datatype:string,name:usuario_rol_id_rol;datatype:int" />
+</info>
